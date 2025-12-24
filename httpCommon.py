@@ -3,6 +3,7 @@ import requests
 import json
 
 
+print("@@@@")
 class HttpCommon:
     def __init__(self):
         self.res = None
